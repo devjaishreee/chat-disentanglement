@@ -1,0 +1,8 @@
+[
+  { "speaker": "user", "message": "Hey, can you help me with my WiFi?" },
+  { "speaker": "agent", "message": "Sure, what seems to be the issue?" },
+  { "speaker": "user", "message": "Also, I wanted to ask about roaming charges." },
+  { "speaker": "agent", "message": "We have international plans for that." },
+  { "speaker": "user", "message": "The WiFi cuts out randomly." },
+  { "speaker": "agent", "message": "Let me look into that." }
+]

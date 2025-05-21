@@ -1,0 +1,7 @@
+sentence-transformers
+scikit-learn
+rake-nltk
+nltk
+numpy
+umap-learn
+matplotlib
