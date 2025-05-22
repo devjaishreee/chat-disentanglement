@@ -3,7 +3,6 @@
 In noisy, multi-turn conversations, language models often lose track of context due to rapid topic shifts. This tool **disentangles chat histories into topic-wise threads** using **semantic embeddings + clustering**, enabling more focused LLM behavior in summarization, retrieval, and reasoning tasks.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![NLP](https://img.shields.io/badge/NLP-Topic%20Clustering-orange)
 ![LLM Ready](https://img.shields.io/badge/LLM-Optimized-critical)
 
